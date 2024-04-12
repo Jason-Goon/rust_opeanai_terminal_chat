@@ -1,4 +1,3 @@
-```markdown
 # Rust OpenAI Chat Interface
 
 This repository contains a Rust application that facilitates real-time chatting with OpenAI's GPT model. The application reads the API key from the environment, allows the user to send messages, and receives responses directly from OpenAI.
